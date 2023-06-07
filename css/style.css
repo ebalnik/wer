@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header_logo_img {
+  width: 700px;
+  height: 500px;
+  margin-left: 600px;
+  margin-top: 50px;
+  position: absolute;
+}
+
+.content_sanya {
+    width: 600px;
+    height: 180px;
+    margin-top: 350px;
+    margin-left: 150px;
+    position: absolute;
+    font-family: 'Roboto Slab', serif;
+}
+
+.content_sanya_img {
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 300px;
+}
+
+.content_roma {
+    width: 900px;
+    height: 200px;
+    margin-top: 750px;
+    margin-left: 150px;
+    position: absolute;
+    font-family: 'Roboto Slab', serif; 
+}
+
+.content_roma_img {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 700px;
+}
+
+.auto {
+    position: absolute; 
+    font-family: 'Roboto Slab', serif;
+    color: rgb(228, 205, 3);
+    margin-top: 650px;
+    margin-left: 600px;
+    font-size: 30px;
+}
+
+.kassa {
+    position: absolute; 
+    font-family: 'Roboto Slab', serif;
+    color: rgb(228, 205, 3);
+    margin-top: 250px;
+    margin-left: 670px;
+    font-size: 30px;
+}
+
+.zhalo {
+    position: absolute; 
+    font-family: 'Roboto Slab', serif;
+    color: rgb(228, 205, 3);
+    margin-top: 1000px;
+    margin-left: 690px;
+    font-size: 30px;  
+}
+
+.content_zhalo_img {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 1060px;
+}
+
+.content_zhalo {
+    width: 900px;
+    height: 200px;
+    margin-top: 1050px;
+    margin-left: 150px;
+    position: absolute;
+    font-family: 'Roboto Slab', serif;  
+}
+
+.numb {
+    font-family: 'Roboto Slab', serif; 
+    font-size: 36px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 800px;
+}
